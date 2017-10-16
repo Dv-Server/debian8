@@ -12,19 +12,9 @@ Debian 8 64 bit เท่านั้น
 __________________________________________________
 **วิธีติดตั้ง** 
 
-Debian8 + OpenVPN
+Debian8
 ```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
-chmod +x install.sh
-./install.sh
-```
-__________________________________________________
-
-**วิธีติดตั้ง**
-
- OpenVPN
-```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
+wget -O install.sh https://github.com/D1NFUCK3Rs/moth3r-debian8/blob/master/install.sh?raw=true
 chmod +x install.sh
 ./install.sh
 ```
